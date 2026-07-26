@@ -1,9 +1,14 @@
-# Sensitive / auto-generated - exclude from backup
+# Sensitive / auto-generated
+state.db
+auth.json
+.gitconfig_cache
+.env
+sessions/
 *.lock
 .cache/
 __pycache__/
 *.pyc
-.cache
+.cache/
 logs/
 audio_cache/
 image_cache/
@@ -15,9 +20,3 @@ gateway_state.json
 gateway.lock
 gateway.pid
 channel_directory.json
-
-# Sensitive / credentials
-state.db
-auth.json
-.env
-sessions/
