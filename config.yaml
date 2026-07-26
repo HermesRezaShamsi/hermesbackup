@@ -1,0 +1,10 @@
+terminal:
+  backend: local
+  cwd: /data/workspace
+  timeout: 180
+compression:
+  enabled: true
+  threshold: 0.85
+onboarding:
+  seen:
+    profile_build_offered: true
