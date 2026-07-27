@@ -12,6 +12,19 @@
     "use_count": 3,
     "view_count": 3
   },
+  "dogfood": {
+    "archived_at": null,
+    "created_at": "2026-07-27T08:51:10.877645+00:00",
+    "created_by": null,
+    "last_patched_at": null,
+    "last_used_at": "2026-07-27T08:51:10.883308+00:00",
+    "last_viewed_at": "2026-07-27T08:51:10.877664+00:00",
+    "patch_count": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 1,
+    "view_count": 1
+  },
   "github-auth": {
     "archived_at": null,
     "created_at": "2026-07-26T15:57:25.580469+00:00",
@@ -30,13 +43,13 @@
     "created_at": "2026-07-26T15:57:25.583140+00:00",
     "created_by": null,
     "last_patched_at": null,
-    "last_used_at": "2026-07-26T16:39:35.216275+00:00",
-    "last_viewed_at": "2026-07-26T16:39:35.208833+00:00",
+    "last_used_at": "2026-07-27T09:04:31.549694+00:00",
+    "last_viewed_at": "2026-07-27T09:04:31.542672+00:00",
     "patch_count": 0,
     "pinned": false,
     "state": "active",
-    "use_count": 3,
-    "view_count": 3
+    "use_count": 5,
+    "view_count": 5
   },
   "hermes-agent": {
     "archived_at": null,
@@ -50,5 +63,44 @@
     "state": "active",
     "use_count": 1,
     "view_count": 1
+  },
+  "requesting-code-review": {
+    "archived_at": null,
+    "created_at": "2026-07-27T08:51:05.867421+00:00",
+    "created_by": null,
+    "last_patched_at": null,
+    "last_used_at": "2026-07-27T08:51:05.871023+00:00",
+    "last_viewed_at": "2026-07-27T08:51:05.867440+00:00",
+    "patch_count": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 1,
+    "view_count": 1
+  },
+  "systematic-debugging": {
+    "archived_at": null,
+    "created_at": "2026-07-27T09:04:31.539406+00:00",
+    "created_by": null,
+    "last_patched_at": null,
+    "last_used_at": "2026-07-27T09:04:31.545912+00:00",
+    "last_viewed_at": "2026-07-27T09:04:31.539425+00:00",
+    "patch_count": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 1,
+    "view_count": 1
+  },
+  "web-application-audit": {
+    "archived_at": null,
+    "created_at": "2026-07-27T08:52:28.938083+00:00",
+    "created_by": "agent",
+    "last_patched_at": "2026-07-27T09:05:44.886677+00:00",
+    "last_used_at": "2026-07-27T09:05:26.370856+00:00",
+    "last_viewed_at": "2026-07-27T09:05:26.366850+00:00",
+    "patch_count": 5,
+    "pinned": false,
+    "state": "active",
+    "use_count": 4,
+    "view_count": 4
   }
 }
