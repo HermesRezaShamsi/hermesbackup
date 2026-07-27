@@ -1,0 +1,1 @@
+Backup: GitHub backup configured at https://github.com/HermesRezaShamsi/hermesbackup via HTTPS token auth (port 22 banned). Script at ~/.hermes/scripts/hermes-backup.sh. Cron job 'hermes-backup' runs every 12 hours (0 */12 * * *). Sensitive files (state.db, auth.json, .env, sessions/) excluded from backup.

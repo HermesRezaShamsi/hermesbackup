@@ -1,0 +1,1 @@
+Name: Reza Shamsi. Born 2001. INTJ-T. Based in Iran — factor in regional restrictions, sanctions, payment/service availability when recommending tools/APIs/workflows.
