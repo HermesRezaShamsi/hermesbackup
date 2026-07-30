@@ -1,1 +1,3 @@
 Name: Reza Shamsi. Born 2001. INTJ-T. Based in Iran — factor in regional restrictions, sanctions, payment/service availability when recommending tools/APIs/workflows.
+§
+Runs LoToos (لوتوس), a luxury bar stool atelier in Tehran. Persian market, React/TypeScript Vite SPA on Firebase + Cloud Run. Hands-on developer — sends source code for direct fixes, not just analysis. Wants decisive action and thorough verification.
